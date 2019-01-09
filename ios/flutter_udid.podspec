@@ -16,7 +16,7 @@ Plugin for getting a persistent UDID on iOS and Android
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'SAMKeychain'
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }   
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }   
   s.ios.deployment_target = '8.0'
 
   
